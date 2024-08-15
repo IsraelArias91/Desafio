@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+    background-color: #223240;
+    color: white;
+    height: 100hv;
+    box-sizing: border-box;
+}
+
+.titulo-destaque{
+    color: #60BF81;
+}
+
+.subtitulo-destaque{
+    color: #347355;
+}
+
+.enlaces{
+    color: #9FD948;
+}
+
+.VEGANISMO {
+    display: flex;
+    align-items: center;
+    margin: 10% 20%;
+    justify-content: space-between;
+
+}
+
+.VEGANISMO_contenido {
+    width: 615px;
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.VEGANISMO_contenido_titulo {
+    font-size: 100px;
+    font-family: "Krona One", sans-serif;
+}
+
+.HISTORIA {
+    font-size: 40px;
+    font-family: "Krona One", sans-serif;
+}
+
+.PARRAFOS {
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.ENLACES {
+    display:flex;
+}
+
+.ENLACES_LINK {
+    width: 600px;
+    background-color: #000000;
+    text-align: center;
+    padding: 21.5px 0;
+    border-radius: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600px;
+    text-decoration: none;
+}
+
+.PIONEROS {
+    display: flex;
+    align-items: center;
+    margin: 10% 20%;
+    justify-content: space-between;
+}
+
+.SUBTITULO {
+    font-size: 30px;
+    font-family: "Krona One", sans-serif
+    
+}
+
+.DEFINICION {
+    color: #60BF81;
+    font-size: 27px;
+    font-family: "Krona One", sans-serif
+    
+}
